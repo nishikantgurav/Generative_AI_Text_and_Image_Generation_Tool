@@ -18,7 +18,7 @@ This tool uses the Gradio library to create a web interface with two forms:
 - Text to Images: When a user enters text into this form and submits it, the input text is sent to OpenAI's DALL-E, which generates an image. The generated image is then displayed on the page.
 # Usage
 To run the tool, execute the python script:
-python ai_tool.py
+python generative_ai_tool.py
 
 This will launch the Gradio interfaces, and a link to the web application will be printed in your console. Click on this link to open the web application in your browser.
 # Security
